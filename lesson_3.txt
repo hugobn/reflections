@@ -1,0 +1,1 @@
+Thisd is a text file to demostrate how to add a new directory to the remote repository and get those changes into our local repository
